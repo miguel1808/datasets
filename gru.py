@@ -16,7 +16,7 @@ Tesla Stock Price Prediction using GRU Tutorial  [link](https://www.kaggle.com/c
 
 ## Importamos librerias
 """
-!pip install sklearn
+pip install sklearn
 import os
 import pandas as pd
 import numpy as np
